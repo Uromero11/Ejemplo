@@ -1,2 +1,2 @@
 # Ejemplo
-Ejemplo de creación de Repositorios
+Ejemplo de creación de Repositorios en _GitHub_
